@@ -1,4 +1,4 @@
-# Competitve Programming Practice
+# Competitve Programing Practice
 
 _Codeforces Group: https://codeforces.com/group/Upc8dBSSKf_
 
